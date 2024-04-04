@@ -336,5 +336,5 @@ Revalidate the application (URL) using another browser, and log in to check that
 
 Ensure to **delete all resources** created throughout the project to avoid charges.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/oluwatobiloba-adu/)
+Connect with me on [LinkedIn](https://in.linkedin.com/in/syed-hassan-k-3b6158253)
   
