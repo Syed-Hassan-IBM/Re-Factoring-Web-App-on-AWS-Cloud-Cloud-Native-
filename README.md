@@ -1,4 +1,4 @@
-# Project-4: Re-Factoring Web App on AWS Cloud[Cloud Native]
+# Re-Factoring Web App on AWS Cloud[Cloud Native]
 
 This strategy detail moving an application to the cloud and modifing its architecture to take full advantage of cloud-native features on AWS. Thereby improving Performance, agility and scalability while it reduces operational overhead and ensure business continuity.
 
